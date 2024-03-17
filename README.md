@@ -48,6 +48,8 @@ WS1 Project - Movement Art
 
 ## Project 
   **Rainbow circles & Confetti**
+
+* For my second workshop project, I decided to explore movement. I used *for* loops, colour changing *conditionals* and I explored a new shape: *circle()*
 	
 > RGB values used
 >> - Violet	180, 145, 255
